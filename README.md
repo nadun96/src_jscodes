@@ -4,14 +4,44 @@ A collection of interactive JavaScript games built with HTML, CSS, and vanilla J
 
 ## Games
 
-### 🎲 Guess a Number
+### ⚓ Battleships
+Classic naval combat game - strategically place your ships and sink your opponent's fleet!
+
+### 🎨 Color Guessing Game
+Test your color knowledge by guessing the RGB values of displayed colors.
+
+### 🔢 Guess a Number
 A number guessing game where players try to guess the correct number within a certain range.
+
+### 🎮 Hangman
+The classic word-guessing game - guess the letters before the hangman is complete!
 
 ### ⌨️ Key Matcher
 Test your reflexes by matching the keys displayed on screen as quickly as possible.
 
+### 🧠 Memory Card Game
+Flip cards and match pairs to test your memory skills.
+
+### 💣 Minesweeper
+Classic puzzle game - flag all the mines without detonating any!
+
+### 🏓 Pong
+The iconic arcade game - control your paddle and outscore your opponent!
+
+### ✊✋✌️ Rock Paper Scissors
+Play the timeless hand game against the computer.
+
 ### 🎲 Roll a Dice
 A dice rolling simulator for all your random number generation needs.
+
+### 🐍 Snake
+Guide the snake to eat food and grow longer without hitting walls or yourself!
+
+### ⭕❌ Tic Tac Toe
+Classic strategy game for two players - get three in a row to win!
+
+### ⌨️ Typing Game
+Improve your typing speed and accuracy with this interactive typing challenge.
 
 ### 🔨 Whack-a-Mole
 Classic whack-a-mole arcade game - test your speed and accuracy!
